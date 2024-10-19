@@ -100,3 +100,18 @@ footer{
    width: 100%;
    justify-content: center;
 }
+/*RESPONSIVIDADE*/
+@media(max-width: 450px){
+    footer{
+        font-family: "Roboto", sans-serif;
+        font-weight: 400;
+        display: flex;
+        margin: 0px auto;
+        bottom: 0;
+        position: fixed;
+        flex-wrap: wrap;
+         text-align: center;
+        border: 2px solid black;
+        justify-content: center;
+     }
+}
