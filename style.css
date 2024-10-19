@@ -111,7 +111,6 @@ footer{
         position: fixed;
         flex-wrap: wrap;
          text-align: center;
-        border: 2px solid black;
         justify-content: center;
      }
 }
